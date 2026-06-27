@@ -103,7 +103,7 @@ ecommerce-analytics/
 ├── notebooks/
 │   ├── Phase_1_Data_Cleaning.ipynb
 │   ├── Phase_2_SQL_KPI_Analysis.ipynb
-│   └── Phase_3_Customer_Segmentation.ipynb
+│   └── Phase_3_Customer_Segment_and_Marketing_Efficiency.ipynb
 ├── sql/                  # Câu query KPI dùng ở Phase 2
 ├── powerbi/
 │   ├── ecommerce_dashboard.pbix
